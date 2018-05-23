@@ -1,0 +1,23 @@
+{
+  "name": "task5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/npupiec/task5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npupiec/task5/issues"
+  },
+  "homepage": "https://github.com/npupiec/task5#readme",
+  "dependencies": {
+    "stat-mode": "^0.2.2"
+  }
+}
